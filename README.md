@@ -7,7 +7,7 @@
 
 ### Links and Resources
 * [repo](https://github.com/niesssiobhan/11-http-and-rest)
-* [travis](http://xyz.com)
+* [travis](https://travis-ci.com/niesssiobhan/11-http-and-rest)
 
 ### Modules
 #### `server.js`
