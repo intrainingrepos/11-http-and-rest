@@ -1,0 +1,24 @@
+{
+  "name": "11-http-and-rest",
+  "version": "1.0.0",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB =================================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niesssiobhan/11-http-and-rest.git"
+  },
+  "author": "siobhan niess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niesssiobhan/11-http-and-rest/issues"
+  },
+  "homepage": "https://github.com/niesssiobhan/11-http-and-rest#readme",
+  "dependencies": {
+    "eslint": "^5.12.0",
+    "jest": "^23.6.0",
+    "node": "^11.6.0"
+  }
+}
