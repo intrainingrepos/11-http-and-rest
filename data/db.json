@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Teagan",
+      "display_name": "snuggle-muffin",
+      "description": "only the most amazing and beautiful ginger toddler there is!"
+    },
+    {
+      "id": 2,
+      "name": "Keely",
+      "display_name": "noodle-bear",
+      "description": "best pup around"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "category": "toys",
+      "name": "bike",
+      "display_name": "balance-bike",
+      "description": "starter bike before your first dirt bike" 
+    }
+  ]
+}
